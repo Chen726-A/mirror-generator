@@ -1,0 +1,8 @@
+# OS 垃圾文件
+.DS_Store
+Thumbs.db
+
+# 私人镜子档案 —— 千万不要把你的个人画像提交进开源仓库
+自我蒸馏.md
+*自我蒸馏*.md
+*.mirror.private.md
